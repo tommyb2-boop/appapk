@@ -1,0 +1,6 @@
+{
+  "name": "Manajemen Hutang Piutang",
+  "description": "Aplikasi pencatatan dan manajemen piutang & hutang dengan sinkronisasi Firebase Firestore, struk PDF, dan backup Google Drive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
